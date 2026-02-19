@@ -35,5 +35,5 @@ A Python tool that evaluates and compares the performance of open-source languag
 1. Clone the repo
 2. Create a virtual environment and install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file with your Hugging Face token: `HF_TOKEN=your_token`
-4. Run `python evaluate.py` to generate results
-5. Run `python analyse.py` to analyze and create charts
+4. Run `python evaluate.py` to generate results.csv
+5. Run `python generate_graphs.py` to analyze and create graphs
