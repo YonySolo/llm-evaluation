@@ -1,0 +1,11 @@
+question,expected_answer,category
+"What is the capital of France?","Paris","factual"
+"What is the capital of Japan?","Tokyo","factual"
+"What is the largest planet in our solar system?","Jupiter","factual"
+"What is the chemical symbol for water?","H2O","factual"
+"What is the speed of light in km/s?","299792","factual"
+"Is the following sentence positive or negative: I love this product","positive","classification"
+"Is the following sentence positive or negative: This was a terrible experience","negative","classification"
+"Is the following sentence positive or negative: The food was amazing","positive","classification"
+"Is the following sentence positive or negative: I would not recommend this","negative","classification"
+"Is the following sentence positive or negative: Best purchase I ever made","positive","classification"
